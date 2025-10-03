@@ -15,7 +15,7 @@ public class Main {
         Rectangle.drawRectangle(5,10);
         System.out.println();
         Rectangle.drawRectangleWithDiagonals(10,10);
-        //DEBUG cu break point FN + F8 Step Over, FN F7 Step In
+        //DEBUG with a break point FN + F7 Step In, FN + F8 Step Over, FN + F9 Step Out
         /*
         System.out.println("Hello world!");
         char c = 'a';
